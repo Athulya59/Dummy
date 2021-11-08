@@ -11,6 +11,7 @@ public class Project1Application {
 		System.out.println("hello");
 		System.out.println("Made changes in master");
 		System.out.println("Pull");
+		System.out.println("Pull in feature branch");
 	}
 
 }
