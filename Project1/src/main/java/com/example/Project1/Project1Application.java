@@ -10,6 +10,7 @@ public class Project1Application {
 		SpringApplication.run(Project1Application.class, args);
 		System.out.println("hello");
 		System.out.println("Made changes in master");
+		System.out.println("Pull");
 	}
 
 }
